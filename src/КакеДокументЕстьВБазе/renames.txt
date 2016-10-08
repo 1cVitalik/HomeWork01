@@ -1,0 +1,9 @@
+﻿25dbc687-3c96-4e60-9c77-f21f73f7b159-->und\25dbc687-3c96-4e60-9c77-f21f73f7b159
+35bf06f1-1379-4977-9a2a-df8370582c10-->und\35bf06f1-1379-4977-9a2a-df8370582c10
+35bf06f1-1379-4977-9a2a-df8370582c10.0-->Form\Отчет
+8a67872b-3028-463f-bf82-f1faac8d10fd-->und\8a67872b-3028-463f-bf82-f1faac8d10fd
+8a67872b-3028-463f-bf82-f1faac8d10fd.0-->und\8a67872b-3028-463f-bf82-f1faac8d10fd.0
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
